@@ -49,7 +49,7 @@ $conn->close();
 
 <br>
 <a href='addemployee.htm'>Add New Employee</a>
-<p>note: you <i>may</i> need to refresh to see changes.</P>
+<p>note: you <i>may</i> need to refresh to see changes.</p>
 
 
 
